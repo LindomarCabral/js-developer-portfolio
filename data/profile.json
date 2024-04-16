@@ -9,27 +9,27 @@
   "hardSkills": [
   {
   "name": "Nodejs",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/nodejs.png"
   },
   {
   "name": "Java",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/java.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/java.png"
   },
   {
   "name": "Php",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/php.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/php.png"
   },
   {
   "name": "Vue",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/vue.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/vue.png"
   },
   {
   "name": "Mongodb",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/mongodb.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/mongodb.png"
   },
   {
   "name": "Postgresql",
-  "logo": "https://github.com/LindomarCabral/js-developer-portfolio/blob/main/data/imgs/postgresql.png"
+  "logo": "https://raw.githubusercontent.com/LindomarCabral/js-developer-portfolio/main/data/imgs/postgresql.png"
   }
   ],
   "softSkills": [
